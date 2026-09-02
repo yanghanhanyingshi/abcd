@@ -32,6 +32,116 @@
           "changeable": 1,
           "playerType": 2
         },
+		 { 
+          "key": "儿歌乐园",
+          "name": "儿歌乐园",
+          "type": 3,
+          "api": "./py/儿歌乐园.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "好听轻音乐",
+          "name": "好听轻音乐",
+          "type": 3,
+          "api": "./py/好听轻音乐.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "歌曲海",
+          "name": "歌曲海",
+          "type": 3,
+          "api": "./py/歌曲海.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "粤语影院",
+          "name": "粤语影院",
+          "type": 3,
+          "api": "./py/粤语影院.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "沙发影视",
+          "name": "沙发影视",
+          "type": 3,
+          "api": "./py/沙发影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "红叶影院",
+          "name": "红叶影院",
+          "type": 3,
+          "api": "./py/红叶影院.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "66mp4影视",
+          "name": "66mp4影视",
+          "type": 3,
+          "api": "./py/66mp4影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "综艺秀",
+          "name": "综艺秀",
+          "type": 3,
+          "api": "./py/综艺秀.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "滴滴美剧",
+          "name": "滴滴美剧",
+          "type": 3,
+          "api": "./py/滴滴美剧.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "发现TV",
+          "name": "发现TV",
+          "type": 3,
+          "api": "./py/发现TV.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
 		{ 
           "key": "短剧网123",
           "name": "短剧网123",
