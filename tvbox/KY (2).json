@@ -33,6 +33,72 @@
           "playerType": 2
         },
 		{ 
+          "key": "短剧网123",
+          "name": "短剧网123",
+          "type": 3,
+          "api": "./py/短剧网123.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "橘汁视频",
+          "name": "橘汁视频",
+          "type": 3,
+          "api": "./py/橘汁视频.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "八号影视",
+          "name": "八号影视",
+          "type": 3,
+          "api": "./py/八号影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "红果果短剧",
+          "name": "红果果短剧",
+          "type": 3,
+          "api": "./py/红果果短剧.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "12光影影视",
+          "name": "12光影影视",
+          "type": 3,
+          "api": "./py/12光影影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "七猫短剧",
+          "name": "七猫短剧",
+          "type": 3,
+          "api": "./py/七猫短剧.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "吉利猫",
           "name": "吉利猫",
           "type": 3,
@@ -201,7 +267,7 @@
           "key": "片库网",
           "name": "库影",
           "type": 3,
-          "api": "./py/片库网.py",
+          "api": "./py/1片库网.py",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
