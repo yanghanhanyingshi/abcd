@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02 16:23 UTC",
+  "updated": "2026-09-02 20:49 UTC",
   "count": 218,
   "sources": [
     {
@@ -26,6 +26,11 @@
       "name": "tv.m3u",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/tv.m3u",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/tv.m3u"
+    },
+    {
+      "name": "migu.txt",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/migu.txt",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/migu.txt"
     },
     {
       "name": "4gtv.txt",
@@ -66,11 +71,6 @@
       "name": "小新TV.txt",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E5%B0%8F%E6%96%B0TV.txt",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E5%B0%8F%E6%96%B0TV.txt"
-    },
-    {
-      "name": "test_channels_taiwan.m3u",
-      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/test_channels_taiwan.m3u",
-      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/test_channels_taiwan.m3u"
     },
     {
       "name": "3E7E0C8A023B624CEC6BDCC200F06F02.js",
