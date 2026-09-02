@@ -146,6 +146,18 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/油管直播.py"
         },
         {
+            "key": "CNFLIX",
+            "name": "🐬CNFLIX[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/CNFLIX.py"
+        },
+        {
+            "key": "风尚影视",
+            "name": "🐬风尚影视[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/风尚影视.py"
+        },
+        {
             "key": "云途影视",
             "name": "🐬云途影视(关梯)[追剧]",
             "type": 3,
@@ -1017,6 +1029,18 @@
             "name": "🐬在线短剧(关梯)[短剧]",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/在线短剧.py"
+        },
+        {
+            "key": "短剧大全",
+            "name": "🐬短剧大全(关梯)[短剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/短剧大全.py"
+        },
+        {
+            "key": "蚕驰短剧网",
+            "name": "🐬蚕驰短剧网(关梯)[短剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蚕驰短剧网.py"
         },
         {
             "key": "ytb",

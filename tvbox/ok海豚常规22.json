@@ -105,6 +105,18 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/ASMR吧🍀TG @hshsjk9.py"
         },
         {
+            "key": "CNFLIX",
+            "name": "🐬[追剧]CNFLIX",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/CNFLIX.py"
+        },
+        {
+            "key": "风尚影视",
+            "name": "🐬[追剧]风尚影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/风尚影视.py"
+        },
+        {
             "key": "云途影视",
             "name": "🐬[追剧]云途影视(关梯)",
             "type": 3,
@@ -969,6 +981,18 @@
             "name": "🐬[短剧]在线短剧(关梯)",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/在线短剧.py"
+        },
+        {
+            "key": "短剧大全",
+            "name": "🐬[短剧]短剧大全(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/短剧大全.py"
+        },
+        {
+            "key": "蚕驰短剧网",
+            "name": "🐬[短剧]蚕驰短剧网(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蚕驰短剧网.py"
         },
         {
             "key": "听书网456",
