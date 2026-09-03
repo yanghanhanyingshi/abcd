@@ -32,6 +32,72 @@
           "changeable": 1,
           "playerType": 2
         },
+		{ 
+          "key": "青苹果彩影",
+          "name": "青苹果彩影",
+          "type": 3,
+          "api": "./py/青苹果彩影.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "面包网影视",
+          "name": "面包网影视",
+          "type": 3,
+          "api": "./py/面包网影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "DJ92舞曲",
+          "name": "DJ92舞曲",
+          "type": 3,
+          "api": "./py/DJ92舞曲.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "cyfz次元方舟",
+          "name": "cyfz次元方舟",
+          "type": 3,
+          "api": "./py/cyfz次元方舟.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "omofun园",
+          "name": "omofun园",
+          "type": 3,
+          "api": "./py/omofun.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "95112475影视",
+          "name": "95112475影视",
+          "type": 3,
+          "api": "./py/95112475影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
 		 { 
           "key": "儿歌乐园",
           "name": "儿歌乐园",
