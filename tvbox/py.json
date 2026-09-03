@@ -900,6 +900,17 @@
       "playerType": 2
     },
     {
+      "key": "4K影视仓.py",
+      "name": "4K影视仓.py",
+      "type": 3,
+      "api": "./py/4K影视仓.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "58影视.py",
       "name": "58影视.py",
       "type": 3,
@@ -1190,6 +1201,17 @@
       "name": "八天电影.py",
       "type": 3,
       "api": "./py/八天电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "八度影院.py",
+      "name": "八度影院.py",
+      "type": 3,
+      "api": "./py/八度影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2286,6 +2308,17 @@
       "playerType": 2
     },
     {
+      "key": "迷你影视.py",
+      "name": "迷你影视.py",
+      "type": 3,
+      "api": "./py/迷你影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "追光影视.py",
       "name": "追光影视.py",
       "type": 3,
@@ -2367,6 +2400,17 @@
       "name": "青蛙影视🍀TG @hshsjk9.py",
       "type": 3,
       "api": "./py/青蛙影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "青鸟影视.py",
+      "name": "青鸟影视.py",
+      "type": 3,
+      "api": "./py/青鸟影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,

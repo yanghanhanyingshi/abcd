@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03 16:06 UTC",
-  "count": 218,
+  "updated": "2026-09-03 20:50 UTC",
+  "count": 222,
   "sources": [
     {
       "name": "Web鱼壳海豚常规23.json",
@@ -663,6 +663,11 @@
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E8%A5%BF%E7%93%9C%E5%BD%B1%E8%A7%86.js"
     },
     {
+      "name": "4K影视仓.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/4K%E5%BD%B1%E8%A7%86%E4%BB%93.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/4K%E5%BD%B1%E8%A7%86%E4%BB%93.py"
+    },
+    {
       "name": "CNFLIX.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/CNFLIX.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/CNFLIX.py"
@@ -671,6 +676,11 @@
       "name": "云途影视.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E4%BA%91%E9%80%94%E5%BD%B1%E8%A7%86.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E4%BA%91%E9%80%94%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "name": "八度影院.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E5%85%AB%E5%BA%A6%E5%BD%B1%E9%99%A2.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E5%85%AB%E5%BA%A6%E5%BD%B1%E9%99%A2.py"
     },
     {
       "name": "君念影院.py",
@@ -706,6 +716,16 @@
       "name": "蚕驰短剧网.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E8%9A%95%E9%A9%B0%E7%9F%AD%E5%89%A7%E7%BD%91.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E8%9A%95%E9%A9%B0%E7%9F%AD%E5%89%A7%E7%BD%91.py"
+    },
+    {
+      "name": "迷你影视.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E8%BF%B7%E4%BD%A0%E5%BD%B1%E8%A7%86.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E8%BF%B7%E4%BD%A0%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "name": "青鸟影视.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E9%9D%92%E9%B8%9F%E5%BD%B1%E8%A7%86.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E9%9D%92%E9%B8%9F%E5%BD%B1%E8%A7%86.py"
     },
     {
       "name": "风尚影视.py",

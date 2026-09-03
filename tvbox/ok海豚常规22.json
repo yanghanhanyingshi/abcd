@@ -105,6 +105,30 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/ASMR吧🍀TG @hshsjk9.py"
         },
         {
+            "key": "青鸟影视",
+            "name": "🐬[追剧]青鸟影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/青鸟影视.py"
+        },
+        {
+            "key": "迷你影视",
+            "name": "🐬[追剧]迷你影视(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/迷你影视.py"
+        },
+        {
+            "key": "八度影院",
+            "name": "🐬[追剧]八度影院(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八度影院.py"
+        },
+        {
+            "key": "4K影视仓",
+            "name": "🐬[追剧]4K影视仓",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/4K影视仓.py"
+        },
+        {
             "key": "CNFLIX",
             "name": "🐬[追剧]CNFLIX",
             "type": 3,
