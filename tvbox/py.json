@@ -78,7 +78,7 @@
     {
       "name": "🐬iptv直播",
       "type": 0,
-      "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
       "ua": "okhttp/5.3.2"
     },
     {
@@ -208,12 +208,6 @@
       "ua": "okhttp"
     },
     {
-      "name": "🐬iptv直播",
-      "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-      "ua": "okhttp/5.3.2"
-    },
-    {
       "name": "develop202",
       "type": 0,
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
@@ -248,6 +242,12 @@
       "type": 0,
       "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "🐬iptv直播",
+      "type": 0,
+      "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+      "ua": "okhttp/5.3.2"
     },
     {
       "name": "全部",
