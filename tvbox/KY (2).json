@@ -33,6 +33,17 @@
           "playerType": 2
         },
 		{ 
+          "key": "z6h1t影视",
+          "name": "z6h1t影视剧",
+          "type": 3,
+          "api": "./X/py/z6h1t影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "青苹果彩影",
           "name": "青苹果彩影",
           "type": 3,
