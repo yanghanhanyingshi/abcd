@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03 20:50 UTC",
-  "count": 222,
+  "updated": "2026-09-04 03:15 UTC",
+  "count": 221,
   "sources": [
     {
       "name": "Web鱼壳海豚常规23.json",
@@ -11,11 +11,6 @@
       "name": "4gtv.m3u",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/4gtv.m3u",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/4gtv.m3u"
-    },
-    {
-      "name": "fwc.m3u",
-      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/fwc.m3u",
-      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/fwc.m3u"
     },
     {
       "name": "黄蚂蚁先锋推流源.txt",
