@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05 03:20 UTC",
-  "count": 220,
+  "updated": "2026-09-05 10:17 UTC",
+  "count": 222,
   "sources": [
     {
       "name": "Web鱼壳海豚常规23.json",
@@ -21,6 +21,11 @@
       "name": "tv.m3u",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/tv.m3u",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/tv.m3u"
+    },
+    {
+      "name": "migu.txt",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/migu.txt",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/migu.txt"
     },
     {
       "name": "4gtv.txt",
@@ -61,6 +66,11 @@
       "name": "20251023002200-507c3e8aae.js",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/20251023002200-507c3e8aae.js",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/20251023002200-507c3e8aae.js"
+    },
+    {
+      "name": "小新TV.txt",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E5%B0%8F%E6%96%B0TV.txt",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E5%B0%8F%E6%96%B0TV.txt"
     },
     {
       "name": "app_dyttandroid.txt",

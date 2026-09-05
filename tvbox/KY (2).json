@@ -33,6 +33,39 @@
           "playerType": 2
         },
 		{ 
+          "key": "iysgc影视",
+          "name": "iysgc影视",
+          "type": 3,
+          "api": "./py/iysgc影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "youvod影视",
+          "name": "youvod影视",
+          "type": 3,
+          "api": "./py/youvod影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "北觅影视",
+          "name": "北觅影视",
+          "type": 3,
+          "api": "./py/北觅影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "z6h1t影视",
           "name": "z6h1t影视剧",
           "type": 3,
