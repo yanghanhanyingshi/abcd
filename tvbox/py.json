@@ -922,6 +922,28 @@
       "playerType": 2
     },
     {
+      "key": "6080影视.py",
+      "name": "6080影视.py",
+      "type": 3,
+      "api": "./py/6080影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "6080新视觉.py",
+      "name": "6080新视觉.py",
+      "type": 3,
+      "api": "./py/6080新视觉.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "66大片网🍀TG @hshsjk9.py",
       "name": "66大片网🍀TG @hshsjk9.py",
       "type": 3,
@@ -937,6 +959,17 @@
       "name": "808影院.py",
       "type": 3,
       "api": "./py/808影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "99短剧网.py",
+      "name": "99短剧网.py",
+      "type": 3,
+      "api": "./py/99短剧网.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1124,6 +1157,17 @@
       "name": "七猫影视.py",
       "type": 3,
       "api": "./py/七猫影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "云朵影视.py",
+      "name": "云朵影视.py",
+      "type": 3,
+      "api": "./py/云朵影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1340,17 +1384,6 @@
       "playerType": 2
     },
     {
-      "key": "千千影视.py",
-      "name": "千千影视.py",
-      "type": 3,
-      "api": "./py/千千影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "千千音乐🍀TG @hshsjk9.py",
       "name": "千千音乐🍀TG @hshsjk9.py",
       "type": 3,
@@ -1366,6 +1399,17 @@
       "name": "华数TV.py",
       "type": 3,
       "api": "./py/华数TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "华谊影视.py",
+      "name": "华谊影视.py",
+      "type": 3,
+      "api": "./py/华谊影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1648,6 +1692,17 @@
       "playerType": 2
     },
     {
+      "key": "影子音乐.py",
+      "name": "影子音乐.py",
+      "type": 3,
+      "api": "./py/影子音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "影视大全.py",
       "name": "影视大全.py",
       "type": 3,
@@ -1872,6 +1927,17 @@
       "name": "樱之空动漫🍀TG @hshsjk9.py",
       "type": 3,
       "api": "./py/樱之空动漫🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "橘汁视频.py",
+      "name": "橘汁视频.py",
+      "type": 3,
+      "api": "./py/橘汁视频.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2143,10 +2209,32 @@
       "playerType": 2
     },
     {
+      "key": "第九短剧网.py",
+      "name": "第九短剧网.py",
+      "type": 3,
+      "api": "./py/第九短剧网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "糯米短剧.py",
       "name": "糯米短剧.py",
       "type": 3,
       "api": "./py/糯米短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "红果短剧.py",
+      "name": "红果短剧.py",
+      "type": 3,
+      "api": "./py/红果短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2202,6 +2290,17 @@
       "name": "芒果TV.py",
       "type": 3,
       "api": "./py/芒果TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "芭蕉剧场.py",
+      "name": "芭蕉剧场.py",
+      "type": 3,
+      "api": "./py/芭蕉剧场.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,

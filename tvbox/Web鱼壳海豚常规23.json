@@ -146,6 +146,54 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/油管直播.py"
         },
         {
+            "key": "云朵影视",
+            "name": "🐬云朵影视[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/云朵影视.py"
+        },
+        {
+            "key": "橘汁视频",
+            "name": "🐬橘汁视频[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/橘汁视频.py"
+        },
+        {
+            "key": "华谊影视",
+            "name": "🐬华谊影视[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/华谊影视.py"
+        },
+        {
+            "key": "芭蕉剧场",
+            "name": "🐬芭蕉剧场(关梯[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/芭蕉剧场.py"
+        },
+        {
+            "key": "6080新视觉",
+            "name": "🐬6080新视觉[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/6080新视觉.py"
+        },
+        {
+            "key": "6080影视",
+            "name": "🐬6080影视[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/6080影视.py"
+        },
+        {
+            "key": "99短剧网",
+            "name": "🐬99短剧网[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/99短剧网.py"
+        },
+        {
+            "key": "第九短剧网",
+            "name": "🐬第九短剧网(关梯)[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第九短剧网.py"
+        },
+        {
             "key": "青鸟影视",
             "name": "🐬青鸟影视[追剧]",
             "type": 3,
@@ -1067,6 +1115,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蚕驰短剧网.py"
         },
         {
+            "key": "红果短剧",
+            "name": "🐬红果短剧(关梯)[短剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
+        },
+        {
             "key": "ytb",
             "name": "🐬悦听吧.py[听书]",
             "type": 3,
@@ -1089,6 +1143,12 @@
             "name": "🐬音乐聚合.py[音乐]",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/音乐聚合🍀TG @hshsjk9.py"
+        },
+        {
+            "key": "影子音乐",
+            "name": "🐬影子音乐[音乐]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影子音乐.py"
         },
         {
             "key": "千千音乐",
