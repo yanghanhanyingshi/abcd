@@ -33,6 +33,39 @@
           "playerType": 2
         },
 		{ 
+          "key": "xhamsterlive",
+          "name": "xhamsterlive",
+          "type": 3,
+          "api": "./X/py/xhamsterlive.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "MissAV247",
+          "name": "MissAV247",
+          "type": 3,
+          "api": "./X/py/MissAV247.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "MissAV47",
+          "name": "MissAV47",
+          "type": 3,
+          "api": "./X/py/MissAV47.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "iysgc影视",
           "name": "iysgc影视",
           "type": 3,
