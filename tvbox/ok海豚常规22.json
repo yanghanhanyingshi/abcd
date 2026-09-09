@@ -12,6 +12,12 @@
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
         },
         {
+            "key": "爱奇艺",
+            "name": "🐬[追剧]爱奇艺.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/爱奇艺.py"
+        },
+        {
             "key": "YK",
             "name": "🐬[追剧]优酷视频 海豚影视交流群 TG：@hshsjk9",
             "type": 3,
@@ -25,15 +31,8 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/优酷视频.py"
         },
         {
-            "key": "TX",
-            "name": "🐬[追剧]腾讯视频",
-            "type": 3,
-            "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
-        },
-        {
             "key": "txvm",
-            "name": "🐬[追剧]腾讯视频.py",
+            "name": "🐬[追剧]腾讯视频",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/腾讯视频.py"
         },
@@ -103,6 +102,42 @@
             "name": "🐬[其他]ASMR吧.py",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/ASMR吧🍀TG @hshsjk9.py"
+        },
+        {
+            "key": "开端影视",
+            "name": "🐬[追剧]开端影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/开端影视.py"
+        },
+        {
+            "key": "手机影院",
+            "name": "🐬[追剧]手机影院(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/手机影院.py"
+        },
+        {
+            "key": "果果短剧",
+            "name": "🐬[追剧]果果短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/果果短剧.py"
+        },
+        {
+            "key": "GimyTV剧迷",
+            "name": "🐬[追剧]GimyTV剧迷",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/GimyTV剧迷.py"
+        },
+        {
+            "key": "白洋影院",
+            "name": "🐬[追剧]白洋影院(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/白洋影院.py"
+        },
+        {
+            "key": "第七影院",
+            "name": "🐬[追剧]第七影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/第七影院.py"
         },
         {
             "key": "云朵影视",
@@ -1092,7 +1127,7 @@
         },
         {
             "key": "影子音乐",
-            "name": "🐬[音乐]影子音乐.py",
+            "name": "🐬[音乐]影子音乐",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影子音乐.py"
         },

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09 11:00 UTC",
-  "count": 225,
+  "updated": "2026-09-09 16:11 UTC",
+  "count": 231,
   "sources": [
     {
       "name": "Web鱼壳海豚常规23.json",
@@ -46,11 +46,6 @@
       "name": "20251023002108-a4795930ec.js",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/20251023002108-a4795930ec.js",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/20251023002108-a4795930ec.js"
-    },
-    {
-      "name": "20251023002144-0e40887294.js",
-      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/20251023002144-0e40887294.js",
-      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/20251023002144-0e40887294.js"
     },
     {
       "name": "20251023002200-507c3e8aae.js",
@@ -208,6 +203,11 @@
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/FreeOK.py"
     },
     {
+      "name": "GimyTV剧迷.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/GimyTV%E5%89%A7%E8%BF%B7.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/GimyTV%E5%89%A7%E8%BF%B7.py"
+    },
+    {
       "name": "MiFun动漫.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/MiFun%E5%8A%A8%E6%BC%AB.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/MiFun%E5%8A%A8%E6%BC%AB.py"
@@ -353,6 +353,11 @@
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E5%A8%81%E8%A7%86TV.py"
     },
     {
+      "name": "开端影视.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E5%BC%80%E7%AB%AF%E5%BD%B1%E8%A7%86.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E5%BC%80%E7%AB%AF%E5%BD%B1%E8%A7%86.py"
+    },
+    {
       "name": "悟圣短剧.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E6%82%9F%E5%9C%A3%E7%9F%AD%E5%89%A7.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E6%82%9F%E5%9C%A3%E7%9F%AD%E5%89%A7.py"
@@ -366,6 +371,11 @@
       "name": "悦听吧.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E6%82%A6%E5%90%AC%E5%90%A7.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E6%82%A6%E5%90%AC%E5%90%A7.py"
+    },
+    {
+      "name": "手机影院.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E6%89%8B%E6%9C%BA%E5%BD%B1%E9%99%A2.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E6%89%8B%E6%9C%BA%E5%BD%B1%E9%99%A2.py"
     },
     {
       "name": "星河影视.py",
@@ -386,6 +396,11 @@
       "name": "映像星球.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E6%98%A0%E5%83%8F%E6%98%9F%E7%90%83.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E6%98%A0%E5%83%8F%E6%98%9F%E7%90%83.py"
+    },
+    {
+      "name": "果果短剧.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E6%9E%9C%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E6%9E%9C%E6%9E%9C%E7%9F%AD%E5%89%A7.py"
     },
     {
       "name": "枝枝影视.py",
@@ -453,6 +468,11 @@
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E7%88%B1%E5%A3%B9%E5%B8%86.py"
     },
     {
+      "name": "爱奇艺.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E7%88%B1%E5%A5%87%E8%89%BA.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E7%88%B1%E5%A5%87%E8%89%BA.py"
+    },
+    {
       "name": "爱看机器人.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E7%88%B1%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E7%88%B1%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA.py"
@@ -461,6 +481,11 @@
       "name": "瓜子APP.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E7%93%9C%E5%AD%90APP.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E7%93%9C%E5%AD%90APP.py"
+    },
+    {
+      "name": "白洋影院.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E7%99%BD%E6%B4%8B%E5%BD%B1%E9%99%A2.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E7%99%BD%E6%B4%8B%E5%BD%B1%E9%99%A2.py"
     },
     {
       "name": "皮皮虾.py",
@@ -486,6 +511,11 @@
       "name": "神马影视.py",
       "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E7%A5%9E%E9%A9%AC%E5%BD%B1%E8%A7%86.py",
       "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E7%A5%9E%E9%A9%AC%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "name": "第七影院.py",
+      "raw": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/main/tvbox/%E7%AC%AC%E4%B8%83%E5%BD%B1%E9%99%A2.py",
+      "url": "https://cdn.jsdelivr.net/gh/yanghanhanyingshi/abcd@main/tvbox/%E7%AC%AC%E4%B8%83%E5%BD%B1%E9%99%A2.py"
     },
     {
       "name": "糯米短剧.py",

@@ -25,6 +25,12 @@
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
         },
         {
+            "key": "爱奇艺",
+            "name": "🐬爱奇艺.py[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/爱奇艺.py"
+        },
+        {
             "key": "YKvm",
             "name": "🐬优酷视频 海豚影视交流群 TG：@hshsjk9[追剧]",
             "type": 3,
@@ -36,13 +42,6 @@
             "name": "🐬优酷视频.py[追剧]",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/优酷视频.py"
-        },
-        {
-            "key": "TX",
-            "name": "🐬腾讯视频[追剧]",
-            "type": 3,
-            "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
         },
         {
             "key": "txvm",
@@ -144,6 +143,42 @@
             "name": "🐬油管直播.py[直播]",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/油管直播.py"
+        },
+        {
+            "key": "开端影视",
+            "name": "🐬开端影视[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/开端影视.py"
+        },
+        {
+            "key": "手机影院",
+            "name": "🐬手机影院[追剧](关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/手机影院.py"
+        },
+        {
+            "key": "果果短剧",
+            "name": "🐬果果短剧[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/果果短剧.py"
+        },
+        {
+            "key": "GimyTV剧迷",
+            "name": "🐬GimyTV剧迷[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/GimyTV剧迷.py"
+        },
+        {
+            "key": "白洋影院",
+            "name": "🐬白洋影院[追剧](关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/白洋影院.py"
+        },
+        {
+            "key": "第七影院",
+            "name": "🐬第七影院[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/第七影院.py"
         },
         {
             "key": "云朵影视",

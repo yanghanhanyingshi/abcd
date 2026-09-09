@@ -1076,6 +1076,17 @@
       "playerType": 2
     },
     {
+      "key": "GimyTV剧迷.py",
+      "name": "GimyTV剧迷.py",
+      "type": 3,
+      "api": "./py/GimyTV剧迷.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "MiFun动漫.py",
       "name": "MiFun动漫.py",
       "type": 3,
@@ -1692,6 +1703,17 @@
       "playerType": 2
     },
     {
+      "key": "开端影视.py",
+      "name": "开端影视.py",
+      "type": 3,
+      "api": "./py/开端影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "影子音乐.py",
       "name": "影子音乐.py",
       "type": 3,
@@ -1751,6 +1773,17 @@
       "name": "悦听吧.py",
       "type": 3,
       "api": "./py/悦听吧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "手机影院.py",
+      "name": "手机影院.py",
+      "type": 3,
+      "api": "./py/手机影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1850,6 +1883,17 @@
       "name": "智能加载v5.1.py",
       "type": 3,
       "api": "./py/智能加载v5.1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "果果短剧.py",
+      "name": "果果短剧.py",
+      "type": 3,
+      "api": "./py/果果短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2066,6 +2110,17 @@
       "playerType": 2
     },
     {
+      "key": "爱奇艺.py",
+      "name": "爱奇艺.py",
+      "type": 3,
+      "api": "./py/爱奇艺.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "爱看机器人.py",
       "name": "爱看机器人.py",
       "type": 3,
@@ -2092,6 +2147,17 @@
       "name": "电影侠🍀TG @hshsjk9.py",
       "type": 3,
       "api": "./py/电影侠🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "白洋影院.py",
+      "name": "白洋影院.py",
+      "type": 3,
+      "api": "./py/白洋影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2202,6 +2268,17 @@
       "name": "神马影视.py",
       "type": 3,
       "api": "./py/神马影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "第七影院.py",
+      "name": "第七影院.py",
+      "type": 3,
+      "api": "./py/第七影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
