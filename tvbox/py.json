@@ -16,6 +16,19 @@
       "logo": "https://epg.51zmt.top:8000/logo/{name}.png"
     },
     {
+      "name": "全部",
+      "type": 0,
+      "url": "./live/mmhy.zzong6599.workers.dev"
+    },
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "./live/live.js",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15"
+    },
+    {
       "name": "🐬综合直播 海豚影视交流群 TG：@hshsjk9",
       "type": 0,
       "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
@@ -248,19 +261,6 @@
       "type": 0,
       "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
       "ua": "okhttp/5.3.2"
-    },
-    {
-      "name": "全部",
-      "type": 0,
-      "url": "./live/mmhy.zzong6599.workers.dev"
-    },
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "./live/live.js",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/3.15"
     }
   ],
   "rules": [
@@ -1362,17 +1362,6 @@
       "playerType": 2
     },
     {
-      "key": "动漫啦.py",
-      "name": "动漫啦.py",
-      "type": 3,
-      "api": "./py/动漫啦.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "动漫巴士.py",
       "name": "动漫巴士.py",
       "type": 3,
@@ -1718,17 +1707,6 @@
       "name": "影子音乐.py",
       "type": 3,
       "api": "./py/影子音乐.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "影视大全.py",
-      "name": "影视大全.py",
-      "type": 3,
-      "api": "./py/影视大全.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2484,17 +2462,6 @@
       "playerType": 2
     },
     {
-      "key": "迷你影视.py",
-      "name": "迷你影视.py",
-      "type": 3,
-      "api": "./py/迷你影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "追光影视.py",
       "name": "追光影视.py",
       "type": 3,
@@ -2583,17 +2550,6 @@
       "playerType": 2
     },
     {
-      "key": "青鸟影视.py",
-      "name": "青鸟影视.py",
-      "type": 3,
-      "api": "./py/青鸟影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "韩小圈.py",
       "name": "韩小圈.py",
       "type": 3,
@@ -2609,17 +2565,6 @@
       "name": "音乐聚合🍀TG @hshsjk9.py",
       "type": 3,
       "api": "./py/音乐聚合🍀TG @hshsjk9.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "风尚影视.py",
-      "name": "风尚影视.py",
-      "type": 3,
-      "api": "./py/风尚影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
