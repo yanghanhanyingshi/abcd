@@ -33,6 +33,28 @@
           "playerType": 2
         },
 		{ 
+          "key": "javday影视",
+          "name": "javday影视",
+          "type": 3,
+          "api": "./X/py/javday影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "蚕驰短剧网",
+          "name": "蚕驰短剧网",
+          "type": 3,
+          "api": "./py/蚕驰短剧网.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "西瓜短剧",
           "name": "西瓜短剧",
           "type": 3,
