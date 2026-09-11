@@ -44,10 +44,10 @@
           "playerType": 2
         },
 		{ 
-          "key": "xhamsterlive",
-          "name": "xhamsterlive",
+          "key": "望春视频",
+          "name": "望春视频",
           "type": 3,
-          "api": "./X/py/xhamsterlive.py",
+          "api": "./X/py/望春视频.py",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
