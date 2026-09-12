@@ -33,6 +33,28 @@
           "playerType": 2
         },
 		{ 
+          "key": "小宝影院",
+          "name": "小宝影院",
+          "type": 3,
+          "api": "./py/小宝影院.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "njav影视",
+          "name": "njav影视",
+          "type": 3,
+          "api": "./X/py/njav影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "AVFolder",
           "name": "AVFolder",
           "type": 3,
