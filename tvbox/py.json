@@ -838,6 +838,17 @@
   ],
   "sites": [
     {
+      "key": "FGBLH__HKL__智能加载v5.1.py",
+      "name": "FGBLH__HKL__智能加载v5.1.py",
+      "type": 3,
+      "api": "./py/FGBLH__HKL__智能加载v5.1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "FGBLH__HKL__自动加载678.py",
       "name": "FGBLH__HKL__自动加载678.py",
       "type": 3,

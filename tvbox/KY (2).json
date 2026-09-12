@@ -33,6 +33,17 @@
           "playerType": 2
         },
 		{ 
+          "key": "AVFolder",
+          "name": "AVFolder",
+          "type": 3,
+          "api": "./X/py/AVFolder.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "javday影视",
           "name": "javday影视",
           "type": 3,
