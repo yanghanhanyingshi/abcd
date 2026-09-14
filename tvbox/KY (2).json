@@ -33,6 +33,28 @@
           "playerType": 2
         },
 		{ 
+          "key": "美剧2046",
+          "name": "美剧2046",
+          "type": 3,
+          "api": "./py/美剧2046.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "有来微视",
+          "name": "有来微视",
+          "type": 3,
+          "api": "./py/有来微视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "小宝影院",
           "name": "小宝影院",
           "type": 3,
