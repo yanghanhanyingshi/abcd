@@ -33,6 +33,50 @@
           "playerType": 2
         },
 		{ 
+          "key": "韩娱网",
+          "name": "韩娱网",
+          "type": 3,
+          "api": "./py/韩娱网.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "duanjujui短剧",
+          "name": "duanjujui短剧",
+          "type": 3,
+          "api": "./py/duanjujui短剧.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "FoFo影院",
+          "name": "FoFo影院",
+          "type": 3,
+          "api": "./py/FoFo影院.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "Porn00",
+          "name": "Porn00",
+          "type": 3,
+          "api": "./X/py/Porn00.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "小鸭子儿童乐园",
           "name": "小鸭子儿童乐园",
           "type": 3,
