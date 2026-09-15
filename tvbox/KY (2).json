@@ -33,6 +33,28 @@
           "playerType": 2
         },
 		{ 
+          "key": "6182100影视",
+          "name": "6182100影视",
+          "type": 3,
+          "api": "./X/py/6182100影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "水仙视频",
+          "name": "水仙视频",
+          "type": 3,
+          "api": "./X/py/水仙视频.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "美剧2046",
           "name": "美剧2046",
           "type": 3,
