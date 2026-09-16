@@ -45,7 +45,7 @@
         },
 		{ 
           "key": "duanjujui短剧",
-          "name": "duanjujui短剧",
+          "name": "短集",
           "type": 3,
           "api": "./py/duanjujui短剧.py",
           "searchable": 1,
@@ -66,10 +66,10 @@
           "playerType": 2
         },
 		{ 
-          "key": "Porn00",
-          "name": "Porn00",
+          "key": "MJAV影视",
+          "name": "MJAV影视",
           "type": 3,
-          "api": "./X/py/Porn00.py",
+          "api": "./X/py/MJAV影视.py",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
