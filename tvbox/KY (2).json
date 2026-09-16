@@ -33,6 +33,39 @@
           "playerType": 2
         },
 		{ 
+          "key": "AVToday影视",
+          "name": "AVToday影视",
+          "type": 3,
+          "api": "./X/py/AVToday影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "中文秘密资源",
+          "name": "中文秘密资源",
+          "type": 3,
+          "api": "./X/py/中文秘密资源.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		 { 
+          "key": "91crdj影视",
+          "name": "91crdj影视",
+          "type": 3,
+          "api": "./X/py/91crdj影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "韩娱网",
           "name": "韩娱网",
           "type": 3,
