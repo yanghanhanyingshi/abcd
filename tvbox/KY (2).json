@@ -33,6 +33,17 @@
           "playerType": 2
         },
 		{ 
+          "key": "anime7影视",
+          "name": "anime7影视",
+          "type": 3,
+          "api": "./py/anime7影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "乌云影视",
           "name": "乌云影视",
           "type": 3,
@@ -70,6 +81,128 @@
           "name": "影迷界影视",
           "type": 3,
           "api": "./py/影迷界影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "5dm影视",
+          "name": "5dm影视",
+          "type": 3,
+          "api": "./py/5dm影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "2k动漫影视",
+          "name": "2k动漫影视",
+          "type": 3,
+          "api": "./py/2k动漫影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "麻豆影视",
+          "name": "麻豆影视",
+          "type": 3,
+          "api": "./X/py/麻豆影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "321av影视",
+          "name": "321av影视",
+          "type": 3,
+          "api": "./X/py/321av影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "大哥影视",
+          "name": "大哥影视",
+          "type": 3,
+          "api": "./X/py/大哥影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "rou123影视",
+          "name": "rou123影视",
+          "type": 3,
+          "api": "./X/py/rou123影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "rou168影视",
+          "name": "rou168影视",
+          "type": 3,
+          "api": "./X/py/rou168影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "591av影视",
+          "name": "591av影视",
+          "type": 3,
+          "api": "./X/py/591av影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "jable888影视",
+          "name": "jable888影视",
+          "type": 3,
+          "api": "./X/py/jable888影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		
+		{ 
+          "key": "missav免翻全分类版",
+          "name": "missav",
+          "type": 3,
+          "api": "./X/py/missav免翻全分类版.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "野果短剧影视",
+          "name": "野果短剧影视",
+          "type": 3,
+          "api": "./X/py/野果短剧影视.py",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
