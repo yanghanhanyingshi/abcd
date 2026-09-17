@@ -33,6 +33,61 @@
           "playerType": 2
         },
 		{ 
+          "key": "乌云影视",
+          "name": "乌云影视",
+          "type": 3,
+          "api": "./py/乌云影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "章鱼号影视",
+          "name": "章鱼号影视",
+          "type": 3,
+          "api": "./py/章鱼号影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "岚炫影视",
+          "name": "岚炫影视",
+          "type": 3,
+          "api": "./py/岚炫影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "影迷界影视",
+          "name": "影迷界影视",
+          "type": 3,
+          "api": "./py/影迷界影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "禁果短剧影视",
+          "name": "禁果短剧影视",
+          "type": 3,
+          "api": "./X/py/禁果短剧影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "AVToday影视",
           "name": "AVToday影视",
           "type": 3,
