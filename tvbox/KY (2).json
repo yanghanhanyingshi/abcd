@@ -110,6 +110,116 @@
           "playerType": 2
         },
 		{ 
+          "key": "xvideos1影视",
+          "name": "xvideos1影视",
+          "type": 3,
+          "api": "./X/py/xvideos1影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "SuperPorn影视",
+          "name": "SuperPorn影视",
+          "type": 3,
+          "api": "./X/py/SuperPorn影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "yesporn影视",
+          "name": "yesporn影视",
+          "type": 3,
+          "api": "./X/py/yesporn影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "avjoy影视",
+          "name": "avjoy影视",
+          "type": 3,
+          "api": "./X/py/avjoy影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "xanimu影视",
+          "name": "xanimu影视",
+          "type": 3,
+          "api": "./X/py/xanimu影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "cartoonporno影视",
+          "name": "cartoonporno影视",
+          "type": 3,
+          "api": "./X/py/cartoonporno影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "x123影视",
+          "name": "x123影视",
+          "type": 3,
+          "api": "./X/py/x123影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "hanime169影视",
+          "name": "hanime169影视",
+          "type": 3,
+          "api": "./X/py/hanime169影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "xhamster影视",
+          "name": "xhamster影视",
+          "type": 3,
+          "api": "./X/py/xhamster影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "hsex1影视",
+          "name": "hsex1影视",
+          "type": 3,
+          "api": "./X/py/hsex1影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "麻豆影视",
           "name": "麻豆影视",
           "type": 3,
