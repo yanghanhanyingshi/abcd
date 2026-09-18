@@ -110,6 +110,39 @@
           "playerType": 2
         },
 		{ 
+          "key": "pornhub666影视",
+          "name": "pornhub666影视",
+          "type": 3,
+          "api": "./X/py/pornhub666影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "okxxx影视",
+          "name": "okxxx影视",
+          "type": 3,
+          "api": "./X/py/okxxx影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "ptt01影视",
+          "name": "ptt01影视",
+          "type": 3,
+          "api": "./X/py/ptt01影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "xvideos1影视",
           "name": "xvideos1影视",
           "type": 3,
