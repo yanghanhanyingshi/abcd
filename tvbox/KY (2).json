@@ -32,6 +32,17 @@
           "changeable": 1,
           "playerType": 2
         },
+		 { 
+          "key": "小唐影视",
+          "name": "小唐影视",
+          "type": 3,
+          "api": "./py/小唐影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
 		{ 
           "key": "anime7影视",
           "name": "anime7影视",
@@ -103,6 +114,61 @@
           "name": "2k动漫影视",
           "type": 3,
           "api": "./py/2k动漫影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "香蕉短剧影视",
+          "name": "香蕉短剧影视",
+          "type": 3,
+          "api": "./X/py/香蕉短剧影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "TinyAV影视",
+          "name": "TinyAV影视",
+          "type": 3,
+          "api": "./X/py/TinyAV影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "X红颜影视",
+          "name": "X红颜影视",
+          "type": 3,
+          "api": "./X/py/X红颜影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "快搜影视",
+          "name": "快搜影视",
+          "type": 3,
+          "api": "./X/py/快搜影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "涩视频影视",
+          "name": "涩视频影视",
+          "type": 3,
+          "api": "./X/py/涩视频影视.py",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
