@@ -121,6 +121,50 @@
           "playerType": 2
         },
 		{ 
+          "key": "红果短剧",
+          "name": "红果短剧",
+          "type": 3,
+          "api": "./X/py/红果短剧.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "麻豆头条",
+          "name": "麻豆头条",
+          "type": 3,
+          "api": "./X/py/麻豆头条.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "91女同",
+          "name": "女同",
+          "type": 3,
+          "api": "./X/py/91女同.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "男同网",
+          "name": "男同",
+          "type": 3,
+          "api": "./X/py/男同网.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "香蕉短剧影视",
           "name": "香蕉短剧影视",
           "type": 3,
@@ -142,17 +186,7 @@
           "changeable": 1,
           "playerType": 2
         },
-		{ 
-          "key": "快派影视",
-          "name": "云老婆",
-          "type": 3,
-          "api": "./X/py/快派影视.py",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0,
-          "changeable": 1,
-          "playerType": 2
-        },
+		
 		{ 
           "key": "涩视频影视",
           "name": "涩视频影视",
@@ -163,18 +197,7 @@
           "filterable": 0,
           "changeable": 1,
           "playerType": 2
-        },
-		{ 
-          "key": "SEXFLIX影视",
-          "name": "SEXFLIX影视（待修，需要账号）",
-          "type": 3,
-          "api": "./X/py/SEXFLIX影视.py",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0,
-          "changeable": 1,
-          "playerType": 2
-        },
+        },		
 		{ 
           "key": "ydmon影视",
           "name": "ydmon影视",
@@ -188,7 +211,7 @@
         },
 		{ 
           "key": "19wiki影视",
-          "name": "19wiki影视修",
+          "name": "19wiki影视",
           "type": 3,
           "api": "./X/py/19wiki影视.py",
           "searchable": 1,
@@ -210,9 +233,9 @@
         },
 		{ 
           "key": "v1百色影视",
-          "name": "v1百色影视修",
+          "name": "百色影视修",
           "type": 3,
-          "api": "./X/py/v1百色影视.py",
+          "api": "./X/py/百色影视.py",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
@@ -221,7 +244,7 @@
         },
 		{ 
           "key": "维密AV影视",
-          "name": "维密AV影视修",
+          "name": "维密AV影视",
           "type": 3,
           "api": "./X/py/维密AV影视.py",
           "searchable": 1,
@@ -231,27 +254,16 @@
           "playerType": 2
         },
 		{ 
-          "key": "DesiJerk影视",
-          "name": "DesiJerk影视",
+          "key": "小黄鸟影视",
+          "name": "小黄鸟影视",
           "type": 3,
-          "api": "./X/py/DesiJerk影视.py",
+          "api": "./X/py/小黄鸟影视.py",
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 0,
           "changeable": 1,
           "playerType": 2
-        },
-		{ 
-          "key": "viet69z影视",
-          "name": "viet69z影视修",
-          "type": 3,
-          "api": "./X/py/viet69z影视.py",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0,
-          "changeable": 1,
-          "playerType": 2
-        },
+        },				
 		{ 
           "key": "泰影3影视",
           "name": "泰影3影视",
