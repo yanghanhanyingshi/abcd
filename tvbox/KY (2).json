@@ -143,6 +143,226 @@
           "playerType": 2
         },
 		{ 
+          "key": "快派影视",
+          "name": "云老婆",
+          "type": 3,
+          "api": "./X/py/快派影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "涩视频影视",
+          "name": "涩视频影视",
+          "type": 3,
+          "api": "./X/py/涩视频影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "SEXFLIX影视",
+          "name": "SEXFLIX影视（待修，需要账号）",
+          "type": 3,
+          "api": "./X/py/SEXFLIX影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "ydmon影视",
+          "name": "ydmon影视",
+          "type": 3,
+          "api": "./X/py/ydmon影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "19wiki影视",
+          "name": "19wiki影视修",
+          "type": 3,
+          "api": "./X/py/19wiki影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "91pornsm影视",
+          "name": "91pornsm影视",
+          "type": 3,
+          "api": "./X/py/91pornsm影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "v1百色影视",
+          "name": "v1百色影视修",
+          "type": 3,
+          "api": "./X/py/v1百色影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "维密AV影视",
+          "name": "维密AV影视修",
+          "type": 3,
+          "api": "./X/py/维密AV影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "DesiJerk影视",
+          "name": "DesiJerk影视",
+          "type": 3,
+          "api": "./X/py/DesiJerk影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "viet69z影视",
+          "name": "viet69z影视修",
+          "type": 3,
+          "api": "./X/py/viet69z影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "泰影3影视",
+          "name": "泰影3影视",
+          "type": 3,
+          "api": "./X/py/泰影3影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "fenbaoav影视",
+          "name": "fenbaoav影视",
+          "type": 3,
+          "api": "./X/py/fenbaoav影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "hubff影视",
+          "name": "hubff影视",
+          "type": 3,
+          "api": "./X/py/hubff影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "AI爽剧网",
+          "name": "AI爽剧网",
+          "type": 3,
+          "api": "./X/py/AI爽剧网.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "365mh影视",
+          "name": "365mh影视",
+          "type": 3,
+          "api": "./X/py/365mh影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "爱交网影视",
+          "name": "爱交网影视",
+          "type": 3,
+          "api": "./X/py/爱交网影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "AV911影视",
+          "name": "AV911影视",
+          "type": 3,
+          "api": "./X/py/AV911影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "BongaCams直播",
+          "name": "BongaCams直播",
+          "type": 3,
+          "api": "./X/py/BongaCams直播.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "av6k影视",
+          "name": "av6k影视",
+          "type": 3,
+          "api": "./X/py/av6k影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
+          "key": "ininav影视",
+          "name": "ininav影视",
+          "type": 3,
+          "api": "./X/py/ininav影视.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "changeable": 1,
+          "playerType": 2
+        },
+		{ 
           "key": "X红颜影视",
           "name": "X红颜影视",
           "type": 3,
@@ -164,17 +384,7 @@
           "changeable": 1,
           "playerType": 2
         },
-		{ 
-          "key": "涩视频影视",
-          "name": "涩视频影视",
-          "type": 3,
-          "api": "./X/py/涩视频影视.py",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0,
-          "changeable": 1,
-          "playerType": 2
-        },
+		
 		{ 
           "key": "pornhub666影视",
           "name": "pornhub666影视",
